@@ -1,0 +1,2 @@
+# deploy-swisstronik
+avm
